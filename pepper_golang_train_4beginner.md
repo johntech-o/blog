@@ -439,11 +439,11 @@ func (g *Gopher) WriteTo(w io.Writer) (size int64, err error) {
 ### 加锁解锁写法的折中，可控or可读
 
 1.风格A
-![](http://static.s3.huajiao.com/Object.access/hj-video/c3R5bGUxLmpwZw==)
+![](img/pepper/style.jpg)
 
 2.风格B
 
-![](http://static.s3.huajiao.com/Object.access/hj-video/c3R5bGUyLmpwZw==)
+![](img/pepper/style1.jpg)
 
 
 
