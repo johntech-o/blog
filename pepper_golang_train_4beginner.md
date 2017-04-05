@@ -2,8 +2,7 @@
 
 ## 1. 背景与起源
 
-![](https://static.s3.huajiao.com/Object.access/hj-video/Z29sYW5nX29yaWdpbi5qcGc=)
-
+![](img/pepper/design.png)
 
 #### 1.1 作者都是资深的c和c++程序员，都就职于google.
 * Thompson是图灵奖得主，unix之父，C语言的前身，B语言的创造者，plan9操作系统创始人之一.
@@ -24,7 +23,7 @@
 
 
 ## 2. Why GO ?
-![](https://static.s3.huajiao.com/Object.access/hj-video/Z29sYW5nX2Rlc2lnbi5qcGc=)
+![](img/pepper/design1.png)
 
 ### 2.1诞生背景
 ##### 编译速度
