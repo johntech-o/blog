@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-79.2847 1564 1112.2291 1279.5" width="1112.2291" height="1279.5">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="10" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="PingFang SC" font-size="10" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.2 
+    <dc:date>2018-11-09 07:08:09 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" fill="none" stroke="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: base">
+      <title>base</title>
+      <g id="Group_287">
+        <g id="Line_269">
+          <path d="M 231.14892 1597.389 L 232.1694 1597.389 L 232.1694 2842.868 L 231 2842.868" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Line_270">
+          <path d="M 479.1489 1597.389 L 479 1597.389 L 479 2842.868" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Line_271">
+          <path d="M 726.5489 1594 L 726.4 1594 L 726.4 2839.479" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Line_283">
+          <path d="M -9.420481 1597.389 L -8.399993 1597.389 L -8.399993 2842.868 L -9.569401 2842.868" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Line_284">
+          <path d="M 973.9489 1597.521 L 974.9694 1597.521 L 974.9694 2843 L 973.8 2843" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_442">
+        <g id="Graphic_273">
+          <text transform="translate(197.5 1569.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".004" y="15">dispatch 2</tspan>
+          </text>
+        </g>
+        <g id="Graphic_274">
+          <text transform="translate(463.2 1569.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".144" y="15">etcd</tspan>
+          </text>
+        </g>
+        <g id="Graphic_275">
+          <text transform="translate(696.4 1569.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".176" y="15">agent 1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_285">
+          <text transform="translate(-46.484697 1571.3526)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".004" y="15">dispatch 1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_286">
+          <text transform="translate(947.3847 1569.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".176" y="15">agent 2</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g id="Canvas_1: Layer 5">
+      <title>Layer 5</title>
+      <g id="Group_428">
+        <g id="Graphic_296">
+          <rect x="226.9" y="1866.1489" width="12" height="30" fill="white"/>
+          <rect x="226.9" y="1866.1489" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_298">
+          <rect x="473.2" y="1866.1489" width="12" height="66" fill="white"/>
+          <rect x="473.2" y="1866.1489" width="12" height="66" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_299">
+          <path d="M 187.36948 1881.1784 L 187.36948 1881.1489 L 217 1881.1489" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_300">
+          <text transform="translate(162.7153 1857.9249)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".38" y="15">add job</tspan>
+          </text>
+        </g>
+        <g id="Line_301">
+          <line x1="238.9" y1="1881.1489" x2="463.3" y2="1881.1489" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_302">
+          <text transform="translate(243.9 1857.9249)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".288" y="15">put</tspan>
+          </text>
+        </g>
+        <g id="Graphic_303">
+          <text transform="translate(282.4 1893.0089)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x=".195" y="10">/pepper/cron/jobs/&lt;job_name&gt;</tspan>
+          </text>
+        </g>
+        <g id="Graphic_307">
+          <rect x="-14.284697" y="1902.1489" width="12" height="30" fill="white"/>
+          <rect x="-14.284697" y="1902.1489" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_308">
+          <line x1="-2.2846972" y1="1917.1489" x2="463.3" y2="1917.1489" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_309">
+          <text transform="translate(2.7153028 1893.4249)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".288" y="15">put</tspan>
+          </text>
+        </g>
+        <g id="Line_311">
+          <path d="M -57.87526 1917.1233 L -57.87526 1917.1489 L -24.184697 1917.1489" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_310">
+          <text transform="translate(-74.2847 1893.4249)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".38" y="15">add job</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_425">
+        <g id="Group_412">
+          <g id="Graphic_362">
+            <rect x="720.3007" y="1994.4" width="12" height="30" fill="white"/>
+            <rect x="720.3007" y="1994.4" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_364">
+            <text transform="translate(567.32085 1987.5885)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".32" y="15">get conf &amp; keep alive</tspan>
+            </text>
+          </g>
+          <g id="Graphic_365">
+            <text transform="translate(524.32085 2021.26)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x=".31" y="10">/pepper/cron/agent/nodes/alive/&lt;node_id&gt;</tspan>
+            </text>
+          </g>
+          <g id="Graphic_367">
+            <rect x="969.5007" y="2030.3" width="12" height="30" fill="white"/>
+            <rect x="969.5007" y="2030.3" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_369">
+            <text transform="translate(816.6209 2024.5885)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".32" y="15">get conf &amp; keep alive</tspan>
+            </text>
+          </g>
+          <g id="Graphic_373">
+            <rect x="473.50073" y="1994.4" width="12" height="66" fill="white"/>
+            <rect x="473.50073" y="1994.4" width="12" height="66" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_374">
+            <line x1="720.3007" y1="2009.4" x2="495.4007" y2="2009.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_375">
+            <line x1="969.5007" y1="2045.3" x2="495.4007" y2="2045.3" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_417">
+          <text transform="translate(248.27085 1988.176)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".032" y="15">subscribe</tspan>
+          </text>
+        </g>
+        <g id="Line_418">
+          <line x1="248.40073" y1="2041.0714" x2="473.50073" y2="2041.0714" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_419">
+          <text transform="translate(357.48543 2045.0823)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".268" y="15">node  up/down</tspan>
+          </text>
+        </g>
+        <g id="Graphic_406">
+          <rect x="226.50073" y="1994.4" width="12" height="66" fill="white"/>
+          <rect x="226.50073" y="1994.4" width="12" height="66" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_409">
+          <text transform="translate(270.98543 2017.76)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x=".425" y="10">/pepper/cron/agent/nodes/alive/*</tspan>
+          </text>
+        </g>
+        <g id="Graphic_410">
+          <text transform="translate(118.5 2018.176)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".432" y="15">agent_monitor</tspan>
+          </text>
+        </g>
+        <g id="Line_423">
+          <line x1="238.50073" y1="2013.4524" x2="463.60073" y2="2013.4524" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_441">
+        <g id="Graphic_280">
+          <rect x="-14.984697" y="1618.4" width="12" height="30" fill="white"/>
+          <rect x="-14.984697" y="1618.4" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_282">
+          <rect x="473.2" y="1618.4" width="12" height="178.59998" fill="white"/>
+          <rect x="473.2" y="1618.4" width="12" height="178.59998" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_289">
+          <rect x="226.2" y="1677.8" width="12" height="119.19997" fill="white"/>
+          <rect x="226.2" y="1677.8" width="12" height="119.19997" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_290">
+          <line x1="-2.9846972" y1="1633.4" x2="463.3" y2="1633.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_291">
+          <line x1="238.2" y1="1700.1316" x2="463.3" y2="1700.1316" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_292">
+          <text transform="translate(2.0153028 1630.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">election</tspan>
+          </text>
+        </g>
+        <g id="Line_293">
+          <line x1="473.2" y1="1722.5" x2="248.1" y2="1722.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_294">
+          <text transform="translate(245.47013 1673.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">election</tspan>
+          </text>
+        </g>
+        <g id="Graphic_295">
+          <text transform="translate(421.17013 1703.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".428" y="15">leader</tspan>
+          </text>
+        </g>
+        <g id="Graphic_314">
+          <text transform="translate(259 1762.5)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x=".19" y="11">/pepper/cron/jobs</tspan>
+            <tspan font-family="PingFang SC" font-size="10" font-weight="400" fill="black" y="11">/*</tspan>
+          </text>
+        </g>
+        <g id="Line_413">
+          <line x1="238.2" y1="1758.0263" x2="463.3" y2="1758.0263" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_414">
+          <text transform="translate(247.97013 1736.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".032" y="15">subscribe</tspan>
+          </text>
+        </g>
+        <g id="Line_415">
+          <line x1="248.1" y1="1780.3947" x2="473.2" y2="1780.3947" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_416">
+          <text transform="translate(337.2 1780.676)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".004" y="15">job added/deleted</tspan>
+          </text>
+        </g>
+        <g id="Graphic_426">
+          <text transform="translate(86.5 1728.276)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".26" y="15">dispatch_manager</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_440">
+        <g id="Graphic_316">
+          <rect x="226.2" y="2395.6" width="12" height="66" fill="white"/>
+          <rect x="226.2" y="2395.6" width="12" height="66" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_320">
+          <text transform="translate(243.97013 2218.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".38" y="15">add job</tspan>
+          </text>
+        </g>
+        <g id="Graphic_323">
+          <text transform="translate(242.97013 2271.701)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".156" y="15">start job dispatcher</tspan>
+          </text>
+        </g>
+        <g id="Graphic_327">
+          <text transform="translate(245 2402.2635)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".464" y="15">dispatch to agents</tspan>
+          </text>
+        </g>
+        <g id="Graphic_328">
+          <text transform="translate(243.2 2431.2037)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x=".395" y="10">/pepper/cron/agent/&lt;node_id&gt;/jobs/&lt;job_name&gt;</tspan>
+          </text>
+        </g>
+        <g id="Graphic_340">
+          <rect x="226.2" y="2657.9062" width="12" height="66" fill="white"/>
+          <rect x="226.2" y="2657.9062" width="12" height="66" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_341">
+          <rect x="473.2" y="2572.975" width="12" height="150.93125" fill="white"/>
+          <rect x="473.2" y="2572.975" width="12" height="150.93125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_342">
+          <line x1="238.2" y1="2672.9062" x2="463.3" y2="2672.9062" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_343">
+          <text transform="translate(248.2 2648.6822)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".032" y="15">subscribe</tspan>
+          </text>
+        </g>
+        <g id="Graphic_345">
+          <text transform="translate(180.73491 2373.1103)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".328" y="15">repeat</tspan>
+          </text>
+        </g>
+        <g id="Graphic_346">
+          <rect x="225.8" y="2216.8" width="12" height="30" fill="white"/>
+          <rect x="225.8" y="2216.8" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_349">
+          <rect x="225.8" y="2267.825" width="12" height="30" fill="white"/>
+          <rect x="225.8" y="2267.825" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_353">
+          <rect x="473.2" y="2395.6" width="12" height="136.12497" fill="white"/>
+          <rect x="473.2" y="2395.6" width="12" height="136.12497" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_354">
+          <line x1="238.2" y1="2428.6" x2="463.3" y2="2428.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_355">
+          <rect x="969.5" y="2395.6" width="12" height="66" fill="white"/>
+          <rect x="969.5" y="2395.6" width="12" height="66" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_356">
+          <line x1="969.5" y1="2410.1875" x2="495.1" y2="2410.1875" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_357">
+          <text transform="translate(890.4 2387.751)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".032" y="15">subscribe</tspan>
+          </text>
+        </g>
+        <g id="Graphic_358">
+          <text transform="translate(497.5 2422.46)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x=".495" y="10">/pepper/cron/agent/&lt;node_id&gt;/jobs/*</tspan>
+          </text>
+        </g>
+        <g id="Line_360">
+          <line x1="485.2" y1="2446.0375" x2="959.6" y2="2446.0375" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_361">
+          <text transform="translate(638 2511.501)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".34" y="15">job added</tspan>
+          </text>
+        </g>
+        <g id="Graphic_381">
+          <rect x="720.2" y="2461.225" width="12" height="66" fill="white"/>
+          <rect x="720.2" y="2461.225" width="12" height="66" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_382">
+          <line x1="720.2" y1="2480.395" x2="495.1" y2="2480.395" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_383">
+          <line x1="485.2" y1="2509.261" x2="710.3" y2="2509.261" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_384">
+          <text transform="translate(641 2460.2322)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".032" y="15">subscribe</tspan>
+          </text>
+        </g>
+        <g id="Graphic_385">
+          <text transform="translate(890.4 2424.6197)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".34" y="15">job added</tspan>
+          </text>
+        </g>
+        <g id="Graphic_386">
+          <text transform="translate(497.5 2488.085)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x=".495" y="10">/pepper/cron/agent/&lt;node_id&gt;/jobs/*</tspan>
+          </text>
+        </g>
+        <g id="Graphic_388">
+          <rect x="720.2" y="2572.975" width="12" height="30" fill="white"/>
+          <rect x="720.2" y="2572.975" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_389">
+          <rect x="969.5" y="2615.4406" width="12" height="30" fill="white"/>
+          <rect x="969.5" y="2615.4406" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_390">
+          <text transform="translate(517.2 2599.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".424" y="15">execute and pet results</tspan>
+          </text>
+        </g>
+        <g id="Line_391">
+          <line x1="969.5" y1="2630.4406" x2="495.1" y2="2630.4406" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_392">
+          <line x1="720.2" y1="2587.975" x2="495.1" y2="2587.975" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_398">
+          <text transform="translate(242.8 2324.626)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".236" y="15">wait for dependent</tspan>
+          </text>
+        </g>
+        <g id="Graphic_397">
+          <rect x="225.8" y="2318.85" width="12" height="30" fill="white"/>
+          <rect x="225.8" y="2318.85" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_401">
+          <path d="M 226.2 2423.717 C 217.87167 2416.2523 203.81144 2400.8614 203.7317 2381.975 C 203.6716 2367.735 211.57415 2355.06 219.0081 2346.2972" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Line_402">
+          <path d="M 732.2 2584.7763 C 743.7625 2578.156 768 2561.8663 768 2541.6417 C 768 2525.523 752.6052 2511.505 740.501 2502.9744" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Line_403">
+          <path d="M 981.5 2625.123 C 996.1292 2611.4444 1032.4444 2572.8898 1032.4444 2527.225 C 1032.4444 2488.013 1005.6673 2456.2024 988.8371 2440.0812" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_404">
+          <text transform="translate(773 2532.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".328" y="15">repeat</tspan>
+          </text>
+        </g>
+        <g id="Graphic_405">
+          <text transform="translate(979.9694 2519.276)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".328" y="15">repeat</tspan>
+          </text>
+        </g>
+        <g id="Graphic_437">
+          <rect x="225.8" y="2764" width="12" height="30" fill="white"/>
+          <rect x="225.8" y="2764" width="12" height="30" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_438">
+          <text transform="translate(242.8 2769.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".304" y="15">check and putresult</tspan>
+          </text>
+        </g>
+        <g id="Line_439">
+          <path d="M 225.8 2771.532 C 198.88345 2737.1533 90.57908 2589.1148 90.57908 2432.861 C 90.57908 2288.5095 183.01235 2192.063 218.3163 2160.4905" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,9.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_430">
+          <rect x="225.8" y="2116.2" width="12" height="66" fill="white"/>
+          <rect x="225.8" y="2116.2" width="12" height="66" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_432">
+          <path d="M 237.8 2330.1286 C 256.18252 2318.2594 310.48227 2279.5212 310.48227 2236.0638 C 310.48227 2198.2168 269.29786 2169.6663 246.52143 2156.7707" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,9.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_431">
+          <text transform="translate(118.5 2136.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".072" y="15">job_execution</tspan>
+          </text>
+        </g>
+        <g id="Graphic_433">
+          <text transform="translate(248.2 2678.2662)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x=".12" y="10">/pepper/cron/agent/execution/&lt;job_name&gt;</tspan>
+          </text>
+        </g>
+        <g id="Graphic_434">
+          <text transform="translate(102 2681.6822)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".032" y="15">agent_execution</tspan>
+          </text>
+        </g>
+        <g id="Line_435">
+          <line x1="248.1" y1="2701.27" x2="473.2" y2="2701.27" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_436">
+          <text transform="translate(326.2 2706.276)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".024" y="15">agent execute done</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_429">
+        <path d="M 226.2 1794.7845 C 182.36047 1865.758 82.80381 1881.0502 83.53191 2003.4397 C 84.13618 2105.0136 181.28792 2192.038 217.98275 2221.3" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,9.0" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
